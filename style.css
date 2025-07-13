@@ -12,7 +12,8 @@
 .navbar {
     width: 1400px;
     height: 100px;
-    margin: 20px 20px;
+    margin-top: 20px;
+    margin-left: 20px;
     background-color: #AC4828;
 }
 
@@ -24,6 +25,7 @@ header {
     width: 507px;
     height: 247px;
     margin-left: 20px;
+    margin-top: 20px;
     background-color: #28A4AC;
 }
 
@@ -31,6 +33,7 @@ header {
     width: 346px;
     height: 247px;
     margin-left: 20px;
+    margin-top: 20px;
     background-color: #28A4AC;
 }
 .main-body {
